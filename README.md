@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/Tailspin8043/Space%20game%20-%20web%20-%20pipeline/_apis/build/status/Ruud-NL.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/Tailspin8043/Space%20game%20-%20web%20-%20pipeline/_build/latest?definitionId=1&branchName=build-pipeline)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
